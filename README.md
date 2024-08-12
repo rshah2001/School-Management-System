@@ -1,1 +1,1 @@
-# This is full code with SQL database instead of SQLlite
+# This is School Management System with SQL database
